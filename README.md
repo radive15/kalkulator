@@ -1,1 +1,1 @@
-# kalkulator
+repositori untuk membuat aplikasi kalkulator sederahana
